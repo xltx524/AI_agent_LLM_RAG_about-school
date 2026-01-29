@@ -1,0 +1,1953 @@
+{
+  "entities": [
+    {
+      "text": "课程修读费",
+      "label": "FEE_ITEM",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "住宿费",
+      "label": "FEE_ITEM",
+      "start": 6,
+      "end": 9
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 14,
+      "end": 16
+    },
+    {
+      "text": "住宿费",
+      "label": "FEE_ITEM",
+      "start": 17,
+      "end": 20
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 74,
+      "end": 76
+    },
+    {
+      "text": "住宿费",
+      "label": "FEE_ITEM",
+      "start": 77,
+      "end": 80
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 11,
+      "end": 13
+    },
+    {
+      "text": "住宿费",
+      "label": "FEE_ITEM",
+      "start": 14,
+      "end": 17
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 15,
+      "end": 17
+    },
+    {
+      "text": "住宿费",
+      "label": "FEE_ITEM",
+      "start": 18,
+      "end": 21
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 29,
+      "end": 31
+    },
+    {
+      "text": "住宿费",
+      "label": "FEE_ITEM",
+      "start": 32,
+      "end": 35
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 13,
+      "end": 15
+    },
+    {
+      "text": "住宿费",
+      "label": "FEE_ITEM",
+      "start": 16,
+      "end": 19
+    },
+    {
+      "text": "师大",
+      "label": "LOCATION",
+      "start": 23,
+      "end": 25
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 39,
+      "end": 41
+    },
+    {
+      "text": "福建师范大学协和学院",
+      "label": "COLLEGE",
+      "start": 0,
+      "end": 10
+    },
+    {
+      "text": "2024",
+      "label": "YEAR",
+      "start": 10,
+      "end": 14
+    },
+    {
+      "text": "2025",
+      "label": "YEAR",
+      "start": 15,
+      "end": 19
+    },
+    {
+      "text": "学费",
+      "label": "FEE_ITEM",
+      "start": 24,
+      "end": 26
+    },
+    {
+      "text": "课程修读费",
+      "label": "FEE_ITEM",
+      "start": 7,
+      "end": 12
+    },
+    {
+      "text": "200",
+      "label": "MONEY_AMOUNT",
+      "start": 18,
+      "end": 21
+    },
+    {
+      "text": "2005",
+      "label": "YEAR",
+      "start": 25,
+      "end": 29
+    },
+    {
+      "text": "2007",
+      "label": "YEAR",
+      "start": 39,
+      "end": 43
+    },
+    {
+      "text": "2007",
+      "label": "YEAR",
+      "start": 53,
+      "end": 57
+    },
+    {
+      "text": "2011",
+      "label": "YEAR",
+      "start": 64,
+      "end": 68
+    },
+    {
+      "text": "200",
+      "label": "MONEY_AMOUNT",
+      "start": 94,
+      "end": 97
+    },
+    {
+      "text": "4人间",
+      "label": "DORM_TYPE",
+      "start": 8,
+      "end": 11
+    },
+    {
+      "text": "1300",
+      "label": "MONEY_AMOUNT",
+      "start": 3,
+      "end": 7
+    },
+    {
+      "text": "2012",
+      "label": "YEAR",
+      "start": 12,
+      "end": 16
+    },
+    {
+      "text": "2012",
+      "label": "YEAR",
+      "start": 26,
+      "end": 30
+    },
+    {
+      "text": "2013",
+      "label": "YEAR",
+      "start": 40,
+      "end": 44
+    },
+    {
+      "text": "6人间",
+      "label": "DORM_TYPE",
+      "start": 8,
+      "end": 11
+    },
+    {
+      "text": "970",
+      "label": "MONEY_AMOUNT",
+      "start": 3,
+      "end": 6
+    },
+    {
+      "text": "2012",
+      "label": "YEAR",
+      "start": 11,
+      "end": 15
+    },
+    {
+      "text": "2012",
+      "label": "YEAR",
+      "start": 25,
+      "end": 29
+    },
+    {
+      "text": "2013",
+      "label": "YEAR",
+      "start": 39,
+      "end": 43
+    },
+    {
+      "text": "2024",
+      "label": "YEAR",
+      "start": 4,
+      "end": 8
+    },
+    {
+      "text": "118",
+      "label": "MONEY_AMOUNT",
+      "start": 2,
+      "end": 5
+    },
+    {
+      "text": "专升本",
+      "label": "ADMISSION_TYPE",
+      "start": 8,
+      "end": 11
+    },
+    {
+      "text": "2024",
+      "label": "YEAR",
+      "start": 4,
+      "end": 8
+    },
+    {
+      "text": "新生入学复查体检费",
+      "label": "FEE_ITEM",
+      "start": 9,
+      "end": 18
+    },
+    {
+      "text": "2021",
+      "label": "YEAR",
+      "start": 8,
+      "end": 12
+    },
+    {
+      "text": "2022",
+      "label": "YEAR",
+      "start": 15,
+      "end": 19
+    },
+    {
+      "text": "2023",
+      "label": "YEAR",
+      "start": 22,
+      "end": 26
+    },
+    {
+      "text": "2024",
+      "label": "YEAR",
+      "start": 29,
+      "end": 33
+    },
+    {
+      "text": "信息技术系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "数字媒体技术",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 12
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 19,
+      "end": 24
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 31,
+      "end": 36
+    },
+    {
+      "text": "信息技术系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "通信工程",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "信息技术系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "网络工程",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "信息技术系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "物联网工程",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 11
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 18,
+      "end": 23
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 24,
+      "end": 29
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "text": "信息技术系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "智能科学与技术",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 13
+    },
+    {
+      "text": "18600",
+      "label": "MONEY_AMOUNT",
+      "start": 14,
+      "end": 19
+    },
+    {
+      "text": "18600",
+      "label": "MONEY_AMOUNT",
+      "start": 20,
+      "end": 25
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 32,
+      "end": 37
+    },
+    {
+      "text": "信息技术系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "电子信息工程",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 12
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 19,
+      "end": 24
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 31,
+      "end": 36
+    },
+    {
+      "text": "信息技术系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "计算机科学与技术",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 14
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 15,
+      "end": 20
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 21,
+      "end": 26
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 27,
+      "end": 32
+    },
+    {
+      "text": "20000",
+      "label": "MONEY_AMOUNT",
+      "start": 33,
+      "end": 38
+    },
+    {
+      "text": "经济与法学系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "法学",
+      "label": "MAJOR",
+      "start": 7,
+      "end": 9
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "经济与法学系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "金融学",
+      "label": "MAJOR",
+      "start": 7,
+      "end": 10
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "经济与法学系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "经济与法学系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "金融工程",
+      "label": "MAJOR",
+      "start": 7,
+      "end": 11
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 18,
+      "end": 23
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 24,
+      "end": 29
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "text": "财务管理",
+      "label": "MAJOR",
+      "start": 5,
+      "end": 9
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "工商管理",
+      "label": "MAJOR",
+      "start": 5,
+      "end": 9
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "人力资源管理",
+      "label": "MAJOR",
+      "start": 5,
+      "end": 11
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 18,
+      "end": 23
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 24,
+      "end": 29
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "text": "市场营销",
+      "label": "MAJOR",
+      "start": 5,
+      "end": 9
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "物流管理",
+      "label": "MAJOR",
+      "start": 5,
+      "end": 9
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "物业管理",
+      "label": "MAJOR",
+      "start": 5,
+      "end": 9
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "国际教育学院",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "国际金融实验班",
+      "label": "MAJOR",
+      "start": 7,
+      "end": 14
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 15,
+      "end": 20
+    },
+    {
+      "text": "28000",
+      "label": "MONEY_AMOUNT",
+      "start": 21,
+      "end": 26
+    },
+    {
+      "text": "28000",
+      "label": "MONEY_AMOUNT",
+      "start": 27,
+      "end": 32
+    },
+    {
+      "text": "28000",
+      "label": "MONEY_AMOUNT",
+      "start": 33,
+      "end": 38
+    },
+    {
+      "text": "国际教育学院",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 6
+    },
+    {
+      "text": "国际会计实验班",
+      "label": "MAJOR",
+      "start": 7,
+      "end": 14
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 15,
+      "end": 20
+    },
+    {
+      "text": "28000",
+      "label": "MONEY_AMOUNT",
+      "start": 21,
+      "end": 26
+    },
+    {
+      "text": "28000",
+      "label": "MONEY_AMOUNT",
+      "start": 27,
+      "end": 32
+    },
+    {
+      "text": "28000",
+      "label": "MONEY_AMOUNT",
+      "start": 33,
+      "end": 38
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "广告学",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 9
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 10,
+      "end": 15
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 16,
+      "end": 21
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 22,
+      "end": 27
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 28,
+      "end": 33
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "汉语言文学",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 11
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 12,
+      "end": 17
+    },
+    {
+      "text": "16000",
+      "label": "MONEY_AMOUNT",
+      "start": 18,
+      "end": 23
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 24,
+      "end": 29
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 30,
+      "end": 35
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "动画",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 8
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 9,
+      "end": 14
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 15,
+      "end": 20
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 21,
+      "end": 26
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 27,
+      "end": 32
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "产品设计",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "18000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "18000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "音乐表演",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "休闲体育",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "学前教育",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "文化产业系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "环境设计",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "18000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "18000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "22000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "外语系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "text": "日语",
+      "label": "MAJOR",
+      "start": 4,
+      "end": 6
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 7,
+      "end": 12
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 19,
+      "end": 24
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "text": "外语系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "text": "英语",
+      "label": "MAJOR",
+      "start": 4,
+      "end": 6
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 7,
+      "end": 12
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 13,
+      "end": 18
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 19,
+      "end": 24
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 25,
+      "end": 30
+    },
+    {
+      "text": "外语系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 3
+    },
+    {
+      "text": "商务英语",
+      "label": "MAJOR",
+      "start": 4,
+      "end": 8
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 9,
+      "end": 14
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 15,
+      "end": 20
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 21,
+      "end": 26
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 27,
+      "end": 32
+    },
+    {
+      "text": "电子商务",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "国际商学系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "国际经济与贸易",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 13
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 14,
+      "end": 19
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 20,
+      "end": 25
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 32,
+      "end": 37
+    },
+    {
+      "text": "国际商学系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "国际商务",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 10
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 11,
+      "end": 16
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 17,
+      "end": 22
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 23,
+      "end": 28
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 29,
+      "end": 34
+    },
+    {
+      "text": "国际商学系",
+      "label": "DEPARTMENT",
+      "start": 0,
+      "end": 5
+    },
+    {
+      "text": "会展经济与管理",
+      "label": "MAJOR",
+      "start": 6,
+      "end": 13
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 14,
+      "end": 19
+    },
+    {
+      "text": "17000",
+      "label": "MONEY_AMOUNT",
+      "start": 20,
+      "end": 25
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 26,
+      "end": 31
+    },
+    {
+      "text": "19000",
+      "label": "MONEY_AMOUNT",
+      "start": 32,
+      "end": 37
+    }
+  ],
+  "relations": [
+    {
+      "source": {
+        "text": "数字媒体技术",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 12
+      },
+      "target_id_info": {
+        "major_name": "数字媒体技术",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-数字媒体技术-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "通信工程",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "通信工程",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-通信工程-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "网络工程",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "网络工程",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-网络工程-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "物联网工程",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 11
+      },
+      "target_id_info": {
+        "major_name": "物联网工程",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-物联网工程-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "智能科学与技术",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 13
+      },
+      "target_id_info": {
+        "major_name": "智能科学与技术",
+        "year": 2024,
+        "amount": 18600,
+        "fee_standard_id": "学费-智能科学与技术-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "电子信息工程",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 12
+      },
+      "target_id_info": {
+        "major_name": "电子信息工程",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-电子信息工程-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "计算机科学与技术",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 14
+      },
+      "target_id_info": {
+        "major_name": "计算机科学与技术",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-计算机科学与技术-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "法学",
+        "label": "MAJOR",
+        "start": 7,
+        "end": 9
+      },
+      "target_id_info": {
+        "major_name": "法学",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-法学-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "金融学",
+        "label": "MAJOR",
+        "start": 7,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "金融学",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-金融学-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "金融工程",
+        "label": "MAJOR",
+        "start": 7,
+        "end": 11
+      },
+      "target_id_info": {
+        "major_name": "金融工程",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-金融工程-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "财务管理",
+        "label": "MAJOR",
+        "start": 5,
+        "end": 9
+      },
+      "target_id_info": {
+        "major_name": "财务管理",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-财务管理-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "工商管理",
+        "label": "MAJOR",
+        "start": 5,
+        "end": 9
+      },
+      "target_id_info": {
+        "major_name": "工商管理",
+        "year": 2024,
+        "amount": 16000,
+        "fee_standard_id": "学费-工商管理-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "人力资源管理",
+        "label": "MAJOR",
+        "start": 5,
+        "end": 11
+      },
+      "target_id_info": {
+        "major_name": "人力资源管理",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-人力资源管理-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "市场营销",
+        "label": "MAJOR",
+        "start": 5,
+        "end": 9
+      },
+      "target_id_info": {
+        "major_name": "市场营销",
+        "year": 2024,
+        "amount": 16000,
+        "fee_standard_id": "学费-市场营销-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "物流管理",
+        "label": "MAJOR",
+        "start": 5,
+        "end": 9
+      },
+      "target_id_info": {
+        "major_name": "物流管理",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-物流管理-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "物业管理",
+        "label": "MAJOR",
+        "start": 5,
+        "end": 9
+      },
+      "target_id_info": {
+        "major_name": "物业管理",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-物业管理-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "国际金融实验班",
+        "label": "MAJOR",
+        "start": 7,
+        "end": 14
+      },
+      "target_id_info": {
+        "major_name": "国际金融实验班",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-国际金融实验班-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "国际会计实验班",
+        "label": "MAJOR",
+        "start": 7,
+        "end": 14
+      },
+      "target_id_info": {
+        "major_name": "国际会计实验班",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-国际会计实验班-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "广告学",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 9
+      },
+      "target_id_info": {
+        "major_name": "广告学",
+        "year": 2024,
+        "amount": 16000,
+        "fee_standard_id": "学费-广告学-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "汉语言文学",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 11
+      },
+      "target_id_info": {
+        "major_name": "汉语言文学",
+        "year": 2024,
+        "amount": 16000,
+        "fee_standard_id": "学费-汉语言文学-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "动画",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 8
+      },
+      "target_id_info": {
+        "major_name": "动画",
+        "year": 2024,
+        "amount": 19000,
+        "fee_standard_id": "学费-动画-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "产品设计",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "产品设计",
+        "year": 2024,
+        "amount": 18000,
+        "fee_standard_id": "学费-产品设计-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "音乐表演",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "音乐表演",
+        "year": 2024,
+        "amount": 19000,
+        "fee_standard_id": "学费-音乐表演-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "休闲体育",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "休闲体育",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-休闲体育-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "学前教育",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "学前教育",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-学前教育-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "环境设计",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "环境设计",
+        "year": 2024,
+        "amount": 18000,
+        "fee_standard_id": "学费-环境设计-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "日语",
+        "label": "MAJOR",
+        "start": 4,
+        "end": 6
+      },
+      "target_id_info": {
+        "major_name": "日语",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-日语-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "英语",
+        "label": "MAJOR",
+        "start": 4,
+        "end": 6
+      },
+      "target_id_info": {
+        "major_name": "英语",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-英语-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "商务英语",
+        "label": "MAJOR",
+        "start": 4,
+        "end": 8
+      },
+      "target_id_info": {
+        "major_name": "商务英语",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-商务英语-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "电子商务",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "电子商务",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-电子商务-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "国际经济与贸易",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 13
+      },
+      "target_id_info": {
+        "major_name": "国际经济与贸易",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-国际经济与贸易-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "国际商务",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 10
+      },
+      "target_id_info": {
+        "major_name": "国际商务",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-国际商务-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    },
+    {
+      "source": {
+        "text": "会展经济与管理",
+        "label": "MAJOR",
+        "start": 6,
+        "end": 13
+      },
+      "target_id_info": {
+        "major_name": "会展经济与管理",
+        "year": 2024,
+        "amount": 17000,
+        "fee_standard_id": "学费-会展经济与管理-2024"
+      },
+      "type": "HAS_FEE_STANDARD_FOR_YEAR"
+    }
+  ]
+}
